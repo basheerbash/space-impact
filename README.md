@@ -20,7 +20,7 @@ A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**
 ---
 
 ## 🕹️ Controls
-
+basheer
 ### Desktop
 - ⬆️⬇️⬅️➡️ Arrow Keys – Move  
 - 🔫 `Space` – Shoot / Start Game  
